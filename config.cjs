@@ -2,7 +2,7 @@ module.exports = {
   "ALIVE_IMG": "",
   "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
   "PREFIX": ".",
-  "SESSION_ID": "put your session id",
+  "SESSION_ID": "Manu-MD&zBtwDR4Z#VShjCszVlicoVziRIX70MPU_zaMLmvoQh8PASEjKQtY",
   "AUTO_READ_STATUS": "false",
   "MODE": "private",
   "BOT_NUMBER": "94742274855",
